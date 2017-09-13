@@ -130,8 +130,12 @@
     background-color: #00a5e2 !important;
 }
 
-.timeline-badge.nowon {
+.timeline-badge.tw {
     background-color: #5bc0de !important;
+}
+
+.timeline-badge.challenges {
+    background-color: #FFCC00 !important;
 }
 
 .timeline-title {
